@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+}
+
+.container{
+    margin-top: 0px;
+    background-color: white;
+    height: 600px;
+    width: 1000px;
+    margin-left: 0px;
+    display: flex;
+    margin-left: 200px;
+}
+
+.first-box{
+    height:550px;
+    width: 400px;
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.pic-1{
+    height: 550px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+
+.first-text{
+    color:black;
+    padding-top: 20px;
+    font: 24px;
+    letter-spacing: 20px;
+}
+
+.title{
+font-size: 30px;
+}
+
+.money{
+    color: #11430B;
+    font-style: italic;
+    font-size: 50px;
+    font-weight: 100px;
+    padding-bottom: 10px;
+}
+
+button{
+    background-color: #11430B;
+    font-size: 40px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;  
+}
